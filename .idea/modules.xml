@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BlueToothLearn.iml" filepath="$PROJECT_DIR$/BlueToothLearn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ble1.2/ble1.2.iml" filepath="$PROJECT_DIR$/ble1.2/ble1.2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/blelearn1.1/blelearn1.1.iml" filepath="$PROJECT_DIR$/blelearn1.1/blelearn1.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bletooth1.0/bletooth1.0.iml" filepath="$PROJECT_DIR$/bletooth1.0/bletooth1.0.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bletooth1.2/bletooth1.2.iml" filepath="$PROJECT_DIR$/bletooth1.2/bletooth1.2.iml" />
+    </modules>
+  </component>
+</project>

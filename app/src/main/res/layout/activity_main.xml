@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="org.snowlive.bluetoothlearn.MainActivity">
+
+    <include
+        android:id="@+id/listtitle"
+        layout="@layout/list_layout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <ListView
+        android:id="@+id/lv_device"
+        android:layout_width="match_parent"
+        android:layout_height="300dp"
+        android:layout_gravity="center_horizontal"
+        android:layout_below="@id/listtitle"
+        android:foregroundGravity="center_horizontal" />
+
+    <include layout="@layout/main_center" />
+
+
+</RelativeLayout>

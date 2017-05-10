@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BLELearn1.1</string>
+    <string name="showinfo">展示信息</string>
+    <string name="openBLE">开蓝牙</string>
+    <string name="closeBLE">关蓝牙</string>
+    <string name="searchBLE">搜蓝牙</string>
+    <string name="deviceName">驱动名称</string>
+    <string name="parited">完成配对的设备</string>
+    <string name="findtitle">可用设备</string>
+</resources>

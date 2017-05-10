@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BLE1.2</string>
+    <string name="openBLE">打开蓝牙</string>
+    <string name="closeBLE">关闭蓝牙</string>
+    <string name="searchBLE">搜索蓝牙</string>
+    <string name="showDevice">驱动名</string>
+    <string name="devicename">驱动名</string>
+    <string name="devicemac">驱动地址</string>
+</resources>

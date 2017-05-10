@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/llayoutcenter"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:layout_centerInParent="true"
+    android:gravity="center_horizontal"
+
+    >
+    <Button
+        android:id="@+id/btOpenBLE"
+        style="@style/ButtonStyle"
+        android:text="@string/openBLE"
+        />
+    <Button
+        android:id="@+id/btSearchBLE"
+        style="@style/ButtonStyle"
+        android:text="@string/searchBLE"
+        />
+    <Button
+        android:id="@+id/btCloseBLE"
+        style="@style/ButtonStyle"
+        android:text="@string/closeBLE"
+        />
+
+
+</LinearLayout>
